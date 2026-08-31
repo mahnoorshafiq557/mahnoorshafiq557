@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Mahnoor Shafiq
+# Hi, I'm Mahnoor Shafiq
 
 ### Frontend Developer · React.js · JavaScript · Tailwind CSS
 
@@ -24,39 +24,39 @@
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
 I'm a frontend developer passionate about creating **modern, responsive and user-friendly web interfaces**.
 
 I enjoy turning ideas and designs into functional web experiences using modern frontend technologies.
 
-* ⚛️ Building with **React.js**
-* 💛 Working with **JavaScript**
-* 🎨 Styling with **Tailwind CSS**
-* 📱 Focused on responsive UI
-* 🧩 Interested in reusable components
-* 🚀 Building practical projects
-* 🌱 Continuously learning and improving
+* Building with **React.js**
+* Working with **JavaScript**
+* Styling with **Tailwind CSS**
+* Focused on responsive UI
+* Interested in reusable components
+* Building practical projects
+* Continuously learning and improving
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,nodejs,express" />
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,nodejs" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -70,7 +70,7 @@ I enjoy turning ideas and designs into functional web experiences using modern f
 
 </div>
 
-### 🔖 Bookmark Manager Extension
+### Bookmark Manager Extension
 
 A modern browser bookmark management experience built with React and Chrome Extension technologies.
 
@@ -84,7 +84,7 @@ View Repository →
 
 ---
 
-### 🌐 Personal Portfolio
+### Personal Portfolio
 
 My personal developer portfolio showcasing my frontend development work, projects and skills.
 
@@ -98,30 +98,30 @@ View Repository →
 
 ---
 
-## 🎯 Currently Learning
+## Currently Learning
 
 <div align="center">
 
-`JavaScript` → `React.js` → `Advanced UI/UX` → `Node.js` → `AI & Automation`
+`Node.js` → `Express.js` → `Backend Development` → `AI & Automation`
 
 </div>
 
 ---
 
-## 💡 What I Like Building
+## What I Like Building
 
 ```text
-🌐 Modern Web Applications
-⚛️ React Interfaces
-🎨 Responsive UI/UX
-🧩 Reusable Components
-🔖 Browser Extensions
-🤖 AI & Automation Projects
+Modern Web Applications
+React Interfaces
+Responsive UI/UX
+Reusable Components
+Browser Extensions
+AI & Automation Projects
 ```
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
@@ -137,7 +137,7 @@ View Repository →
 
 ---
 
-## 🐍 Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
@@ -147,7 +147,7 @@ View Repository →
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 <div align="center">
 
@@ -165,7 +165,7 @@ View Repository →
 
 <div align="center">
 
-### ✨ Building. Learning. Improving.
+### Building. Learning. Improving.
 
 <img src="https://komarev.com/ghpvc/?username=mahnoorshafiq557&label=Profile%20Views&color=0A2A5A&style=flat" />
 
