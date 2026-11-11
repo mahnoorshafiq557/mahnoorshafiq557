@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Mahnoor Shafiq — MERN Stack Developer (Learning)</title>
+<desc id="desc">A dark navy terminal-inspired banner with cyan and violet accents.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#080D1A"/><stop offset="1" stop-color="#111A31"/></linearGradient>
+  <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22D3EE"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
+  <radialGradient id="orb"><stop stop-color="#22D3EE" stop-opacity=".22"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+<circle cx="1030" cy="30" r="310" fill="url(#orb)"/>
+<rect x="30" y="28" width="1140" height="304" rx="20" fill="none" stroke="#26334D"/>
+<path d="M30 82H1170" stroke="#26334D"/>
+<circle cx="62" cy="55" r="7" fill="#FB7185"/><circle cx="88" cy="55" r="7" fill="#FBBF24"/><circle cx="114" cy="55" r="7" fill="#34D399"/>
+<text x="150" y="61" fill="#8290A8" font-family="monospace" font-size="17">mahnoor@github: ~/profile</text>
+<text x="76" y="151" fill="#22D3EE" font-family="monospace" font-size="18">$ whoami</text>
+<text x="76" y="207" fill="#F1F5F9" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700">MAHNOOR SHAFIQ</text>
+<rect x="76" y="229" width="560" height="3" rx="2" fill="url(#glow)"/>
+<text x="76" y="273" fill="#C7D2E3" font-family="Arial, Helvetica, sans-serif" font-size="25">MERN Stack Developer <tspan fill="#A78BFA">(Learning)</tspan></text>
+<text x="76" y="307" fill="#8290A8" font-family="monospace" font-size="16">Frontend • JavaScript • React • Node.js</text>
+<g transform="translate(850 132)" font-family="monospace">
+  <rect width="260" height="132" rx="14" fill="#0B1325" stroke="#33415F"/>
+  <text x="20" y="31" fill="#A78BFA" font-size="14">SYSTEM.INFO</text>
+  <text x="20" y="62" fill="#8290A8" font-size="13">STATUS</text><text x="112" y="62" fill="#34D399" font-size="13">LEARNING</text>
+  <text x="20" y="88" fill="#8290A8" font-size="13">FOCUS</text><text x="112" y="88" fill="#22D3EE" font-size="13">MERN STACK</text>
+  <text x="20" y="114" fill="#8290A8" font-size="13">MODE</text><text x="112" y="114" fill="#F1F5F9" font-size="13">BUILD / REPEAT</text>
+</g>
+</svg>
